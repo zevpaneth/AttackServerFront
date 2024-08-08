@@ -1,0 +1,70 @@
+{
+    "missiles": [
+      {
+        "name": "Tomahawk Cruise Missile (BGM-109)",
+        "speed": "880 km/h",
+        "mass": "1315 kg",
+        "damage_radius": "300 meters",
+        "origin": {
+          "x": 34.0522,
+          "y": -118.2437,
+          "z": 71},
+          "angles": {
+            "pitch": 10,
+            "yaw": 45,
+            "roll": 5
+          }
+        }
+      },
+      {
+        "name": "Patriot Missile (MIM-104)",
+        "speed": "Mach 2.8 (3430 km/h)",
+        "mass": "912 kg",
+        "damage_radius": "90 meters",
+        "origin": {
+          "x": 38.9072,
+          "y": -77.0369,
+          "z": 21},
+          "angles": {
+            "pitch": 15,
+            "yaw": 90,
+            "roll": 0
+          }
+        }
+      },
+      {
+        "name": "Hellfire Missile (AGM-114)",
+        "speed": "Mach 1.3 (1592 km/h)",
+        "mass": "45 kg",
+        "damage_radius": "20 meters",
+        "origin": {
+          "x": 29.7604,
+          "y": -95.3698,
+          "z": 12},
+          "angles": {
+            "pitch": 20,
+            "yaw": 60,
+            "roll": 2
+          }
+        }
+      },
+      {
+        "name": "Sidewinder Missile (AIM-9X)",
+        "speed": "Mach 2.5 (3080 km/h)",
+        "mass": "85.3 kg",
+        "damage_radius": "10 meters",
+        "origin": {
+          "x": 40.7128,
+          "y": -74.0060,
+          "z": 10
+        },
+        "angles": {
+            "x": 5,
+            "y": 120,
+            "z": 3
+          }
+        }
+      }
+    ]
+  }
+  
